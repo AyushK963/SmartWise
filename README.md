@@ -45,18 +45,18 @@ SmartWise is a cutting-edge AI-powered web application designed to help users pr
 - **Version Control**: GitHub
 
 ## Deployment
-PrepWise is hosted on Vercel. Check it out here: [PrepWise Live](https://ai-mock-interviews-rouge.vercel.app/)
+PrepWise is hosted on Vercel. Check it out here: 
 
 ## Setup Instructions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/prepwise.git
+   git clone https://github.com/yourusername/Smartwise.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd prepwise
+   cd Smartwise
    ```
 
 3. Install dependencies:
